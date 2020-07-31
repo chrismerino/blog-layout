@@ -1,0 +1,38 @@
+body {
+  font-family: Poppins;
+}
+
+.root {
+  background-color: #c0c0c0;
+  width: 75%;
+  max-width: 700px;
+  margin: auto;
+}
+
+.quote {
+  border-left: 5px solid #c0c0c0;
+  padding-left: 5px;
+}
+
+.main-section {
+  background-color: white;
+  border: 20px solid #c0c0c0;
+  padding: 20px;
+}
+
+.article-single {
+  border-bottom: 1px solid black;
+  padding-bottom: 10px;
+}
+
+.article.date {
+  text-transform: uppercase;
+  color: cadetblue;
+  font-weight: bold;
+  letter-spacing: 3px;
+}
+
+.article.title {
+  text-transform: capitalize;
+  font-size: 2rem;
+}
